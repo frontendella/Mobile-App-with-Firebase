@@ -1,4 +1,4 @@
-## Building a [Web Mobile App](https://mobileappwithfirebase.netlify.app) with Firebase 
+## Building a [Web App](https://mobileappwithfirebase.netlify.app) with Firebase 
 
 *** Not given permission to the user to add / remove from database (teacher's Firebase database restricted permission) ***
 
